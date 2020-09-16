@@ -1,14 +1,7 @@
-import React, { Component } from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import template from "./component/template";
+import React from "react";
 
-function App() {
-  if (true) {
-    console.log("if block");
-    return <template />;
-  } else {
-    console.log("else block");
+class template {
+  render() {
     return (
       <div className="App">
         <header className="App-header">
@@ -30,4 +23,4 @@ function App() {
   }
 }
 
-export default App;
+export default template;
