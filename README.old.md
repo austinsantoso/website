@@ -1,9 +1,3 @@
-# Introdution
-
-prerequisites:
-- Node 17.6.0
-  - suggested to use nvm 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
